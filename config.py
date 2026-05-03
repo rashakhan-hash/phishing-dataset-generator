@@ -1,5 +1,5 @@
 # Phishing Dataset Generator Config
-admin_email = "rashakhan918@gmail.com"
+admin_email = "REDACTED"
 api_key = "demo_key_12345"
 
 def generate_dataset():
