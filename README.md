@@ -1,2 +1,5 @@
-# phishing-dataset-generator
-Tool for generating synthetic phishing datasets for awareness training
+# Phishing Dataset Generator
+
+This tool helps simulate phishing datasets for cybersecurity awareness training.
+
+Author: Rasha Khan
